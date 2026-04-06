@@ -1,0 +1,73 @@
+# ====================================================
+# CareerCompass Robots.txt
+# Updated: 2026-03-26 | GEO-Optimized for AI Search
+# ====================================================
+
+# === Default: Allow all crawlers ===
+User-agent: *
+Allow: /
+Crawl-delay: 1
+
+# === Google Search Crawlers ===
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Smartphone
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Googlebot-Video
+Allow: /
+
+User-agent: Googlebot-News
+Allow: /
+
+# === Google Ads Crawlers ===
+User-agent: AdsBot-Google
+Allow: /
+
+User-agent: AdsBot-Google-Mobile
+Allow: /
+
+# === Google AI & Gemini (Allow for AI Overviews) ===
+User-agent: Google-Extended
+Allow: /
+
+# === OpenAI / ChatGPT (Allow for ChatGPT Search visibility) ===
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+# === Anthropic / Claude ===
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+# === Perplexity (Allow for Perplexity AI Search) ===
+User-agent: PerplexityBot
+Allow: /
+
+# === Microsoft Bing / Copilot ===
+User-agent: Bingbot
+Allow: /
+
+User-agent: msnbot
+Allow: /
+
+# === Block training-only crawlers (optional - blocks data harvesting without blocking AI search) ===
+# Uncomment if you want to block Common Crawl (training dataset only):
+# User-agent: CCBot
+# Disallow: /
+
+# === Sitemaps ===
+Sitemap: https://www.uddisha.com/sitemap.xml
+Sitemap: https://www.uddisha.com/sitemap-blogs.xml

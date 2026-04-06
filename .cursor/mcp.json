@@ -1,0 +1,17 @@
+{
+  "mcpServers": {
+    "testsprite": {
+      "command": "testsprite-mcp",
+      "args": [],
+      "env": {
+        "TESTSPRITE_API_KEY": "${TESTSPRITE_API_KEY}"
+      }
+    }
+  }
+}
+
+
+
+
+
+

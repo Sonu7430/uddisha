@@ -1,0 +1,49 @@
+# CareerCompass - AI-Powered Career Discovery Platform
+
+> CareerCompass is India's leading free AI-powered career guidance platform. It helps students and professionals discover ideal career paths through intelligent assessments, a database of 1800+ careers, and expert blog content covering all major career domains.
+
+## Key Facts
+- Website: https://www.uddisha.com
+- Founded: 2025
+- Target Audience: Indian students (Class 10, 12, college), young professionals
+- Core Offering: Free AI career assessment + 1800+ career database
+- Languages: English
+- Country: India
+
+## Main Sections
+
+- [Home](https://www.uddisha.com/): AI-powered career discovery platform for India. Free career test and stream selector.
+- [AI Career Assessment](https://www.uddisha.com/assessment): Free, 20-minute adaptive career assessment that matches users to 1800+ career options using weight-based AI scoring.
+- [Career Database](https://www.uddisha.com/careers): Browse 1800+ career profiles across tech, healthcare, arts, law, finance, and more.
+- [Stream Selector](https://www.uddisha.com/): 10-question assessment to help Class 10 students choose between Science, Commerce, Arts, or Vocational streams.
+- [Career Blog](https://www.uddisha.com/blog): Expert articles on career paths, exam counseling, salary data, and professional development.
+- [About Us](https://www.uddisha.com/about): Our mission, team, and approach to AI-driven career guidance.
+
+## Popular Blog Articles
+
+- [Career Options After 12th](https://www.uddisha.com/blog/right-career-path-after-12th): Step-by-step guide choosing careers after Class 12 in Science, Commerce, and Arts.
+- [Career Options After 10th](https://www.uddisha.com/blog/career-options-after-10th): Complete guide for Class 10 students exploring streams and career paths.
+- [Data Science Career 2026](https://www.uddisha.com/blog/data-science-career-2026): Skills, salary (₹6-50 LPA), certifications, and career roadmap for data scientists in India.
+- [JEE Counseling 2026](https://www.uddisha.com/blog/jee-counseling-2026): JoSAA, CSAB, choice filling, and IIT/NIT admission complete guide.
+- [NEET Counseling 2026](https://www.uddisha.com/blog/neet-counseling-2026): MCC counseling, AIQ quota, MBBS/BDS admission process.
+- [Government Jobs Guide](https://www.uddisha.com/blog/government-jobs-guide): UPSC, SSC, Banking exams — preparation strategy and salary guide.
+- [Top Skills in Demand 2026](https://www.uddisha.com/blog/top-skills-2026): 15 most in-demand skills including AI, Cloud Computing, and Cybersecurity.
+- [Commerce Career Paths After 12th](https://www.uddisha.com/blog/commerce-career-paths-after-12th): 25+ career options beyond CA/CS for Commerce students.
+- [MBA vs MS Abroad](https://www.uddisha.com/blog/mba-vs-ms): Cost, ROI, and career outcomes comparison for Indian students.
+- [AI Career Guidance](https://www.uddisha.com/blog/ai-career-guidance): How AI is revolutionizing career assessment and job discovery.
+- [Finance Career Paths 2026](https://www.uddisha.com/blog/finance-career-paths-2026): Investment banking, wealth management, fintech — salaries ₹5-50+ LPA.
+- [Cybersecurity Career 2026](https://www.uddisha.com/blog/cybersecurity-career-2026): Ethical hacking, CEH, OSCP certifications, salaries ₹5-40 LPA.
+- [Study Abroad Guide](https://www.uddisha.com/blog/study-abroad-guide-2026): USA, UK, Canada, Germany, Australia guide for Indian students.
+- [UPSC Civil Services](https://www.uddisha.com/blog/upsc-civil-services-career-2026): IAS, IPS, IFS preparation strategy, exam pattern, salary guide.
+
+## What Makes CareerCompass Unique
+- 100% free — no paywall, no premium tier
+- 1800+ career options (largest free database in India)
+- AI weight-based scoring with 50+ personality trait analysis
+- Coverage of both traditional and emerging careers
+- India-specific salary data and exam guidance (JEE, NEET, UPSC, SSC)
+- Stream Selector tool for Class 10 → Class 11 transition
+
+## Contact
+- Website: https://www.uddisha.com/contact-us
+- Privacy Policy: https://www.uddisha.com/privacy-policy

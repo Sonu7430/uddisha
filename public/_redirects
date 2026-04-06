@@ -1,0 +1,17 @@
+
+
+# Old URL Redirects
+/terms  /terms-of-service  301
+/explorer  /careers  301
+/assistant  /  301
+/blog/healthcare  /blog/healthcare-careers-2025  301
+/blog/career-after-12th  /blog/right-career-path-after-12th  301
+/blog/global-stream-systems /blog 301
+/blog/emerging-careers /blog/top-careers-india 301
+
+# Existing Redirects
+/googleed84dd3644e81f76.html  /googleed84dd3644e81f76.html  200
+/ads.txt  https://srv.adstxtmanager.com/76539/uddisha.com  301
+https://clinquant-froyo-25a7a6.netlify.app/* https://www.uddisha.com/:splat 301!
+
+

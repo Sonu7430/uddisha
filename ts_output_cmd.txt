@@ -1,0 +1,359 @@
+src/components/SplashCursor.tsx(89,12): error TS2339: Property 'getExtension' does not exist on type 'RenderingContext'.
+  Property 'getExtension' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(90,37): error TS2339: Property 'getExtension' does not exist on type 'RenderingContext'.
+  Property 'getExtension' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(92,24): error TS2339: Property 'getExtension' does not exist on type 'RenderingContext'.
+  Property 'getExtension' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(93,37): error TS2339: Property 'getExtension' does not exist on type 'RenderingContext'.
+  Property 'getExtension' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(97,10): error TS2339: Property 'clearColor' does not exist on type 'RenderingContext'.
+  Property 'clearColor' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(99,14): error TS2339: Property 'HALF_FLOAT' does not exist on type 'RenderingContext'.
+  Property 'HALF_FLOAT' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(107,11): error TS2345: Argument of type 'RenderingContext' is not assignable to parameter of type 'WebGLRenderingContext | WebGL2RenderingContext'.
+  Type 'CanvasRenderingContext2D' is not assignable to type 'WebGLRenderingContext | WebGL2RenderingContext'.
+    Type 'CanvasRenderingContext2D' is missing the following properties from type 'WebGL2RenderingContext': beginQuery, beginTransformFeedback, bindBufferBase, bindBufferRange, and 779 more.
+src/components/SplashCursor.tsx(108,14): error TS2339: Property 'RGBA16F' does not exist on type 'RenderingContext'.
+  Property 'RGBA16F' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(109,14): error TS2339: Property 'RGBA' does not exist on type 'RenderingContext'.
+  Property 'RGBA' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(112,39): error TS2345: Argument of type 'RenderingContext' is not assignable to parameter of type 'WebGLRenderingContext | WebGL2RenderingContext'.
+  Type 'CanvasRenderingContext2D' is not assignable to type 'WebGLRenderingContext | WebGL2RenderingContext'.
+    Type 'CanvasRenderingContext2D' is missing the following properties from type 'WebGL2RenderingContext': beginQuery, beginTransformFeedback, bindBufferBase, bindBufferRange, and 779 more.
+src/components/SplashCursor.tsx(112,46): error TS2339: Property 'RG16F' does not exist on type 'RenderingContext'.
+  Property 'RG16F' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(112,56): error TS2339: Property 'RG' does not exist on type 'RenderingContext'.
+  Property 'RG' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(113,38): error TS2345: Argument of type 'RenderingContext' is not assignable to parameter of type 'WebGLRenderingContext | WebGL2RenderingContext'.
+  Type 'CanvasRenderingContext2D' is not assignable to type 'WebGLRenderingContext | WebGL2RenderingContext'.
+    Type 'CanvasRenderingContext2D' is missing the following properties from type 'WebGL2RenderingContext': beginQuery, beginTransformFeedback, bindBufferBase, bindBufferRange, and 779 more.
+src/components/SplashCursor.tsx(113,45): error TS2339: Property 'R16F' does not exist on type 'RenderingContext'.
+  Property 'R16F' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(113,54): error TS2339: Property 'RED' does not exist on type 'RenderingContext'.
+  Property 'RED' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(115,41): error TS2345: Argument of type 'RenderingContext' is not assignable to parameter of type 'WebGLRenderingContext | WebGL2RenderingContext'.
+  Type 'CanvasRenderingContext2D' is not assignable to type 'WebGLRenderingContext | WebGL2RenderingContext'.
+    Type 'CanvasRenderingContext2D' is missing the following properties from type 'WebGL2RenderingContext': beginQuery, beginTransformFeedback, bindBufferBase, bindBufferRange, and 779 more.
+src/components/SplashCursor.tsx(115,48): error TS2339: Property 'RGBA' does not exist on type 'RenderingContext'.
+  Property 'RGBA' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(115,57): error TS2339: Property 'RGBA' does not exist on type 'RenderingContext'.
+  Property 'RGBA' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(116,39): error TS2345: Argument of type 'RenderingContext' is not assignable to parameter of type 'WebGLRenderingContext | WebGL2RenderingContext'.
+  Type 'CanvasRenderingContext2D' is not assignable to type 'WebGLRenderingContext | WebGL2RenderingContext'.
+    Type 'CanvasRenderingContext2D' is missing the following properties from type 'WebGL2RenderingContext': beginQuery, beginTransformFeedback, bindBufferBase, bindBufferRange, and 779 more.
+src/components/SplashCursor.tsx(116,46): error TS2339: Property 'RGBA' does not exist on type 'RenderingContext'.
+  Property 'RGBA' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(116,55): error TS2339: Property 'RGBA' does not exist on type 'RenderingContext'.
+  Property 'RGBA' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(117,38): error TS2345: Argument of type 'RenderingContext' is not assignable to parameter of type 'WebGLRenderingContext | WebGL2RenderingContext'.
+  Type 'CanvasRenderingContext2D' is not assignable to type 'WebGLRenderingContext | WebGL2RenderingContext'.
+    Type 'CanvasRenderingContext2D' is missing the following properties from type 'WebGL2RenderingContext': beginQuery, beginTransformFeedback, bindBufferBase, bindBufferRange, and 779 more.
+src/components/SplashCursor.tsx(117,45): error TS2339: Property 'RGBA' does not exist on type 'RenderingContext'.
+  Property 'RGBA' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(117,54): error TS2339: Property 'RGBA' does not exist on type 'RenderingContext'.
+  Property 'RGBA' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(207,16): error TS2339: Property 'FRAGMENT_SHADER' does not exist on type 'RenderingContext'.
+  Property 'FRAGMENT_SHADER' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(215,9): error TS2740: Type '{ [key: string]: WebGLUniformLocation; }' is missing the following properties from type 'any[]': length, pop, push, concat, and 29 more.
+src/components/SplashCursor.tsx(219,12): error TS2339: Property 'useProgram' does not exist on type 'RenderingContext'.
+  Property 'useProgram' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(232,12): error TS2339: Property 'useProgram' does not exist on type 'RenderingContext'.
+  Property 'useProgram' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(237,24): error TS2339: Property 'createProgram' does not exist on type 'RenderingContext'.
+  Property 'createProgram' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(239,10): error TS2339: Property 'attachShader' does not exist on type 'RenderingContext'.
+  Property 'attachShader' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(240,10): error TS2339: Property 'attachShader' does not exist on type 'RenderingContext'.
+  Property 'attachShader' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(241,10): error TS2339: Property 'linkProgram' does not exist on type 'RenderingContext'.
+  Property 'linkProgram' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(242,15): error TS2339: Property 'getProgramParameter' does not exist on type 'RenderingContext'.
+  Property 'getProgramParameter' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(242,47): error TS2339: Property 'LINK_STATUS' does not exist on type 'RenderingContext'.
+  Property 'LINK_STATUS' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(243,26): error TS2339: Property 'getProgramInfoLog' does not exist on type 'RenderingContext'.
+  Property 'getProgramInfoLog' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(249,29): error TS2339: Property 'getProgramParameter' does not exist on type 'RenderingContext'.
+  Property 'getProgramParameter' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(249,61): error TS2339: Property 'ACTIVE_UNIFORMS' does not exist on type 'RenderingContext'.
+  Property 'ACTIVE_UNIFORMS' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(251,30): error TS2339: Property 'getActiveUniform' does not exist on type 'RenderingContext'.
+  Property 'getActiveUniform' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(253,40): error TS2339: Property 'getUniformLocation' does not exist on type 'RenderingContext'.
+  Property 'getUniformLocation' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(261,25): error TS2339: Property 'createShader' does not exist on type 'RenderingContext'.
+  Property 'createShader' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(263,10): error TS2339: Property 'shaderSource' does not exist on type 'RenderingContext'.
+  Property 'shaderSource' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(264,10): error TS2339: Property 'compileShader' does not exist on type 'RenderingContext'.
+  Property 'compileShader' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(265,15): error TS2339: Property 'getShaderParameter' does not exist on type 'RenderingContext'.
+  Property 'getShaderParameter' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(265,45): error TS2339: Property 'COMPILE_STATUS' does not exist on type 'RenderingContext'.
+  Property 'COMPILE_STATUS' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(266,26): error TS2339: Property 'getShaderInfoLog' does not exist on type 'RenderingContext'.
+  Property 'getShaderInfoLog' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(280,10): error TS2339: Property 'VERTEX_SHADER' does not exist on type 'RenderingContext'.
+  Property 'VERTEX_SHADER' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(303,10): error TS2339: Property 'FRAGMENT_SHADER' does not exist on type 'RenderingContext'.
+  Property 'FRAGMENT_SHADER' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(317,10): error TS2339: Property 'FRAGMENT_SHADER' does not exist on type 'RenderingContext'.
+  Property 'FRAGMENT_SHADER' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(373,10): error TS2339: Property 'FRAGMENT_SHADER' does not exist on type 'RenderingContext'.
+  Property 'FRAGMENT_SHADER' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(395,10): error TS2339: Property 'FRAGMENT_SHADER' does not exist on type 'RenderingContext'.
+  Property 'FRAGMENT_SHADER' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(436,10): error TS2339: Property 'FRAGMENT_SHADER' does not exist on type 'RenderingContext'.
+  Property 'FRAGMENT_SHADER' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(466,10): error TS2339: Property 'FRAGMENT_SHADER' does not exist on type 'RenderingContext'.
+  Property 'FRAGMENT_SHADER' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(489,10): error TS2339: Property 'FRAGMENT_SHADER' does not exist on type 'RenderingContext'.
+  Property 'FRAGMENT_SHADER' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(524,10): error TS2339: Property 'FRAGMENT_SHADER' does not exist on type 'RenderingContext'.
+  Property 'FRAGMENT_SHADER' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(550,10): error TS2339: Property 'FRAGMENT_SHADER' does not exist on type 'RenderingContext'.
+  Property 'FRAGMENT_SHADER' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(575,10): error TS2339: Property 'bindBuffer' does not exist on type 'RenderingContext'.
+  Property 'bindBuffer' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(575,24): error TS2339: Property 'ARRAY_BUFFER' does not exist on type 'RenderingContext'.
+  Property 'ARRAY_BUFFER' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(575,41): error TS2339: Property 'createBuffer' does not exist on type 'RenderingContext'.
+  Property 'createBuffer' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(576,10): error TS2339: Property 'bufferData' does not exist on type 'RenderingContext'.
+  Property 'bufferData' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(577,12): error TS2339: Property 'ARRAY_BUFFER' does not exist on type 'RenderingContext'.
+  Property 'ARRAY_BUFFER' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(579,12): error TS2339: Property 'STATIC_DRAW' does not exist on type 'RenderingContext'.
+  Property 'STATIC_DRAW' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(581,10): error TS2339: Property 'bindBuffer' does not exist on type 'RenderingContext'.
+  Property 'bindBuffer' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(581,24): error TS2339: Property 'ELEMENT_ARRAY_BUFFER' does not exist on type 'RenderingContext'.
+  Property 'ELEMENT_ARRAY_BUFFER' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(581,49): error TS2339: Property 'createBuffer' does not exist on type 'RenderingContext'.
+  Property 'createBuffer' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(582,10): error TS2339: Property 'bufferData' does not exist on type 'RenderingContext'.
+  Property 'bufferData' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(583,12): error TS2339: Property 'ELEMENT_ARRAY_BUFFER' does not exist on type 'RenderingContext'.
+  Property 'ELEMENT_ARRAY_BUFFER' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(585,12): error TS2339: Property 'STATIC_DRAW' does not exist on type 'RenderingContext'.
+  Property 'STATIC_DRAW' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(587,10): error TS2339: Property 'vertexAttribPointer' does not exist on type 'RenderingContext'.
+  Property 'vertexAttribPointer' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(587,39): error TS2339: Property 'FLOAT' does not exist on type 'RenderingContext'.
+  Property 'FLOAT' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(588,10): error TS2339: Property 'enableVertexAttribArray' does not exist on type 'RenderingContext'.
+  Property 'enableVertexAttribArray' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(591,14): error TS2339: Property 'viewport' does not exist on type 'RenderingContext'.
+  Property 'viewport' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(591,32): error TS2339: Property 'drawingBufferWidth' does not exist on type 'RenderingContext'.
+  Property 'drawingBufferWidth' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(591,55): error TS2339: Property 'drawingBufferHeight' does not exist on type 'RenderingContext'.
+  Property 'drawingBufferHeight' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(592,14): error TS2339: Property 'bindFramebuffer' does not exist on type 'RenderingContext'.
+  Property 'bindFramebuffer' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(592,33): error TS2339: Property 'FRAMEBUFFER' does not exist on type 'RenderingContext'.
+  Property 'FRAMEBUFFER' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(594,14): error TS2339: Property 'viewport' does not exist on type 'RenderingContext'.
+  Property 'viewport' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(595,14): error TS2339: Property 'bindFramebuffer' does not exist on type 'RenderingContext'.
+  Property 'bindFramebuffer' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(595,33): error TS2339: Property 'FRAMEBUFFER' does not exist on type 'RenderingContext'.
+  Property 'FRAMEBUFFER' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(598,14): error TS2339: Property 'clearColor' does not exist on type 'RenderingContext'.
+  Property 'clearColor' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(599,14): error TS2339: Property 'clear' does not exist on type 'RenderingContext'.
+  Property 'clear' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(599,23): error TS2339: Property 'COLOR_BUFFER_BIT' does not exist on type 'RenderingContext'.
+  Property 'COLOR_BUFFER_BIT' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(601,12): error TS2339: Property 'drawElements' does not exist on type 'RenderingContext'.
+  Property 'drawElements' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(601,28): error TS2339: Property 'TRIANGLES' does not exist on type 'RenderingContext'.
+  Property 'TRIANGLES' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(601,45): error TS2339: Property 'UNSIGNED_SHORT' does not exist on type 'RenderingContext'.
+  Property 'UNSIGNED_SHORT' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(628,57): error TS2339: Property 'LINEAR' does not exist on type 'RenderingContext'.
+  Property 'LINEAR' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(628,69): error TS2339: Property 'NEAREST' does not exist on type 'RenderingContext'.
+  Property 'NEAREST' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(629,10): error TS2339: Property 'disable' does not exist on type 'RenderingContext'.
+  Property 'disable' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(629,21): error TS2339: Property 'BLEND' does not exist on type 'RenderingContext'.
+  Property 'BLEND' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(677,12): error TS2339: Property 'NEAREST' does not exist on type 'RenderingContext'.
+  Property 'NEAREST' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(685,12): error TS2339: Property 'NEAREST' does not exist on type 'RenderingContext'.
+  Property 'NEAREST' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(693,12): error TS2339: Property 'NEAREST' does not exist on type 'RenderingContext'.
+  Property 'NEAREST' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(698,10): error TS2339: Property 'activeTexture' does not exist on type 'RenderingContext'.
+  Property 'activeTexture' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(698,27): error TS2339: Property 'TEXTURE0' does not exist on type 'RenderingContext'.
+  Property 'TEXTURE0' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(699,24): error TS2339: Property 'createTexture' does not exist on type 'RenderingContext'.
+  Property 'createTexture' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(700,10): error TS2339: Property 'bindTexture' does not exist on type 'RenderingContext'.
+  Property 'bindTexture' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(700,25): error TS2339: Property 'TEXTURE_2D' does not exist on type 'RenderingContext'.
+  Property 'TEXTURE_2D' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(701,10): error TS2339: Property 'texParameteri' does not exist on type 'RenderingContext'.
+  Property 'texParameteri' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(701,27): error TS2339: Property 'TEXTURE_2D' does not exist on type 'RenderingContext'.
+  Property 'TEXTURE_2D' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(701,42): error TS2339: Property 'TEXTURE_MIN_FILTER' does not exist on type 'RenderingContext'.
+  Property 'TEXTURE_MIN_FILTER' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(702,10): error TS2339: Property 'texParameteri' does not exist on type 'RenderingContext'.
+  Property 'texParameteri' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(702,27): error TS2339: Property 'TEXTURE_2D' does not exist on type 'RenderingContext'.
+  Property 'TEXTURE_2D' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(702,42): error TS2339: Property 'TEXTURE_MAG_FILTER' does not exist on type 'RenderingContext'.
+  Property 'TEXTURE_MAG_FILTER' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(703,10): error TS2339: Property 'texParameteri' does not exist on type 'RenderingContext'.
+  Property 'texParameteri' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(703,27): error TS2339: Property 'TEXTURE_2D' does not exist on type 'RenderingContext'.
+  Property 'TEXTURE_2D' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(703,42): error TS2339: Property 'TEXTURE_WRAP_S' does not exist on type 'RenderingContext'.
+  Property 'TEXTURE_WRAP_S' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(703,61): error TS2339: Property 'CLAMP_TO_EDGE' does not exist on type 'RenderingContext'.
+  Property 'CLAMP_TO_EDGE' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(704,10): error TS2339: Property 'texParameteri' does not exist on type 'RenderingContext'.
+  Property 'texParameteri' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(704,27): error TS2339: Property 'TEXTURE_2D' does not exist on type 'RenderingContext'.
+  Property 'TEXTURE_2D' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(704,42): error TS2339: Property 'TEXTURE_WRAP_T' does not exist on type 'RenderingContext'.
+  Property 'TEXTURE_WRAP_T' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(704,61): error TS2339: Property 'CLAMP_TO_EDGE' does not exist on type 'RenderingContext'.
+  Property 'CLAMP_TO_EDGE' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(705,10): error TS2339: Property 'texImage2D' does not exist on type 'RenderingContext'.
+  Property 'texImage2D' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(706,12): error TS2339: Property 'TEXTURE_2D' does not exist on type 'RenderingContext'.
+  Property 'TEXTURE_2D' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(717,20): error TS2339: Property 'createFramebuffer' does not exist on type 'RenderingContext'.
+  Property 'createFramebuffer' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(718,10): error TS2339: Property 'bindFramebuffer' does not exist on type 'RenderingContext'.
+  Property 'bindFramebuffer' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(718,29): error TS2339: Property 'FRAMEBUFFER' does not exist on type 'RenderingContext'.
+  Property 'FRAMEBUFFER' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(719,10): error TS2339: Property 'framebufferTexture2D' does not exist on type 'RenderingContext'.
+  Property 'framebufferTexture2D' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(720,12): error TS2339: Property 'FRAMEBUFFER' does not exist on type 'RenderingContext'.
+  Property 'FRAMEBUFFER' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(721,12): error TS2339: Property 'COLOR_ATTACHMENT0' does not exist on type 'RenderingContext'.
+  Property 'COLOR_ATTACHMENT0' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(722,12): error TS2339: Property 'TEXTURE_2D' does not exist on type 'RenderingContext'.
+  Property 'TEXTURE_2D' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(726,10): error TS2339: Property 'viewport' does not exist on type 'RenderingContext'.
+  Property 'viewport' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(727,10): error TS2339: Property 'clear' does not exist on type 'RenderingContext'.
+  Property 'clear' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(727,19): error TS2339: Property 'COLOR_BUFFER_BIT' does not exist on type 'RenderingContext'.
+  Property 'COLOR_BUFFER_BIT' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(739,14): error TS2339: Property 'activeTexture' does not exist on type 'RenderingContext'.
+  Property 'activeTexture' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(739,31): error TS2339: Property 'TEXTURE0' does not exist on type 'RenderingContext'.
+  Property 'TEXTURE0' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(740,14): error TS2339: Property 'bindTexture' does not exist on type 'RenderingContext'.
+  Property 'bindTexture' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(740,29): error TS2339: Property 'TEXTURE_2D' does not exist on type 'RenderingContext'.
+  Property 'TEXTURE_2D' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(777,10): error TS2339: Property 'uniform1i' does not exist on type 'RenderingContext'.
+  Property 'uniform1i' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(869,10): error TS2339: Property 'disable' does not exist on type 'RenderingContext'.
+  Property 'disable' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(869,21): error TS2339: Property 'BLEND' does not exist on type 'RenderingContext'.
+  Property 'BLEND' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(872,10): error TS2339: Property 'uniform2f' does not exist on type 'RenderingContext'.
+  Property 'uniform2f' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(877,10): error TS2339: Property 'uniform1i' does not exist on type 'RenderingContext'.
+  Property 'uniform1i' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(882,10): error TS2339: Property 'uniform2f' does not exist on type 'RenderingContext'.
+  Property 'uniform2f' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(887,10): error TS2339: Property 'uniform1i' does not exist on type 'RenderingContext'.
+  Property 'uniform1i' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(891,10): error TS2339: Property 'uniform1i' does not exist on type 'RenderingContext'.
+  Property 'uniform1i' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(892,10): error TS2339: Property 'uniform1f' does not exist on type 'RenderingContext'.
+  Property 'uniform1f' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(893,10): error TS2339: Property 'uniform1f' does not exist on type 'RenderingContext'.
+  Property 'uniform1f' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(899,10): error TS2339: Property 'uniform2f' does not exist on type 'RenderingContext'.
+  Property 'uniform2f' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(904,10): error TS2339: Property 'uniform1i' does not exist on type 'RenderingContext'.
+  Property 'uniform1i' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(912,10): error TS2339: Property 'uniform1i' does not exist on type 'RenderingContext'.
+  Property 'uniform1i' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(913,10): error TS2339: Property 'uniform1f' does not exist on type 'RenderingContext'.
+  Property 'uniform1f' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(919,10): error TS2339: Property 'uniform2f' does not exist on type 'RenderingContext'.
+  Property 'uniform2f' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(924,10): error TS2339: Property 'uniform1i' does not exist on type 'RenderingContext'.
+  Property 'uniform1i' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(926,12): error TS2339: Property 'uniform1i' does not exist on type 'RenderingContext'.
+  Property 'uniform1i' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(936,10): error TS2339: Property 'uniform2f' does not exist on type 'RenderingContext'.
+  Property 'uniform2f' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(941,10): error TS2339: Property 'uniform1i' does not exist on type 'RenderingContext'.
+  Property 'uniform1i' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(945,10): error TS2339: Property 'uniform1i' does not exist on type 'RenderingContext'.
+  Property 'uniform1i' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(954,10): error TS2339: Property 'uniform2f' does not exist on type 'RenderingContext'.
+  Property 'uniform2f' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(960,12): error TS2339: Property 'uniform2f' does not exist on type 'RenderingContext'.
+  Property 'uniform2f' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(966,10): error TS2339: Property 'uniform1i' does not exist on type 'RenderingContext'.
+  Property 'uniform1i' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(967,10): error TS2339: Property 'uniform1i' does not exist on type 'RenderingContext'.
+  Property 'uniform1i' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(968,10): error TS2339: Property 'uniform1f' does not exist on type 'RenderingContext'.
+  Property 'uniform1f' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(969,10): error TS2339: Property 'uniform1f' does not exist on type 'RenderingContext'.
+  Property 'uniform1f' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(977,12): error TS2339: Property 'uniform2f' does not exist on type 'RenderingContext'.
+  Property 'uniform2f' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(982,10): error TS2339: Property 'uniform1i' does not exist on type 'RenderingContext'.
+  Property 'uniform1i' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(986,10): error TS2339: Property 'uniform1i' does not exist on type 'RenderingContext'.
+  Property 'uniform1i' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(987,10): error TS2339: Property 'uniform1f' does not exist on type 'RenderingContext'.
+  Property 'uniform1f' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(996,10): error TS2339: Property 'blendFunc' does not exist on type 'RenderingContext'.
+  Property 'blendFunc' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(996,23): error TS2339: Property 'ONE' does not exist on type 'RenderingContext'.
+  Property 'ONE' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(996,31): error TS2339: Property 'ONE_MINUS_SRC_ALPHA' does not exist on type 'RenderingContext'.
+  Property 'ONE_MINUS_SRC_ALPHA' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(997,10): error TS2339: Property 'enable' does not exist on type 'RenderingContext'.
+  Property 'enable' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(997,20): error TS2339: Property 'BLEND' does not exist on type 'RenderingContext'.
+  Property 'BLEND' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(1002,39): error TS2339: Property 'drawingBufferWidth' does not exist on type 'RenderingContext'.
+  Property 'drawingBufferWidth' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(1003,40): error TS2339: Property 'drawingBufferHeight' does not exist on type 'RenderingContext'.
+  Property 'drawingBufferHeight' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(1006,12): error TS2339: Property 'uniform2f' does not exist on type 'RenderingContext'.
+  Property 'uniform2f' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(1007,36): error TS2339: Property 'texelSize' does not exist on type 'any[]'.
+src/components/SplashCursor.tsx(1011,10): error TS2339: Property 'uniform1i' does not exist on type 'RenderingContext'.
+  Property 'uniform1i' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(1011,45): error TS2339: Property 'uTexture' does not exist on type 'any[]'.
+src/components/SplashCursor.tsx(1033,10): error TS2339: Property 'uniform1i' does not exist on type 'RenderingContext'.
+  Property 'uniform1i' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(1034,10): error TS2339: Property 'uniform1f' does not exist on type 'RenderingContext'.
+  Property 'uniform1f' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(1038,10): error TS2339: Property 'uniform2f' does not exist on type 'RenderingContext'.
+  Property 'uniform2f' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(1039,10): error TS2339: Property 'uniform3f' does not exist on type 'RenderingContext'.
+  Property 'uniform3f' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(1040,10): error TS2339: Property 'uniform1f' does not exist on type 'RenderingContext'.
+  Property 'uniform1f' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(1047,10): error TS2339: Property 'uniform1i' does not exist on type 'RenderingContext'.
+  Property 'uniform1i' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(1048,10): error TS2339: Property 'uniform3f' does not exist on type 'RenderingContext'.
+  Property 'uniform3f' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(1162,28): error TS2339: Property 'drawingBufferWidth' does not exist on type 'RenderingContext'.
+  Property 'drawingBufferWidth' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(1162,52): error TS2339: Property 'drawingBufferHeight' does not exist on type 'RenderingContext'.
+  Property 'drawingBufferHeight' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(1166,14): error TS2339: Property 'drawingBufferWidth' does not exist on type 'RenderingContext'.
+  Property 'drawingBufferWidth' does not exist on type 'CanvasRenderingContext2D'.
+src/components/SplashCursor.tsx(1166,38): error TS2339: Property 'drawingBufferHeight' does not exist on type 'RenderingContext'.
+  Property 'drawingBufferHeight' does not exist on type 'CanvasRenderingContext2D'.
